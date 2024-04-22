@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-hospitalaria-
+# Sistema-de-gestion-hospitalaria-
